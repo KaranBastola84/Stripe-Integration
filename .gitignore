@@ -1,0 +1,45 @@
+# Build results
+**/bin/
+**/obj/
+**/out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio
+.vs/
+*.vsidx
+*.vspscc
+*.vspx
+*.sap
+.github
+
+# Rider
+.idea/
+
+# Development settings
+**/appsettings.Development.json
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local

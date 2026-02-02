@@ -1,0 +1,6 @@
+@StripeBackend_HostAddress = http://localhost:5160
+
+GET {{StripeBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

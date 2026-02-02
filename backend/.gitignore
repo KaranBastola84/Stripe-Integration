@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Development settings
+appsettings.Development.json
+
+# Visual Studio
+.vs/
+*.vsidx
+*.vspscc
+*.vspx
+*.sap
+
+# Rider
+.idea/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Logs
+logs/
+*.log

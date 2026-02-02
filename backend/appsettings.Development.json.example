@@ -1,0 +1,13 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "Stripe": {
+    "PublishableKey": "pk_test_51234567890abcdefghijklmnopqrstuvwxyz",
+    "SecretKey": "sk_test_51234567890abcdefghijklmnopqrstuvwxyz",
+    "WebhookSecret": "whsec_1234567890abcdefghijklmnopqrstuvwxyz"
+  }
+}
